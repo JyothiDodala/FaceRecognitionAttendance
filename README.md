@@ -1,8 +1,3 @@
-Ahhh, got it bro! 😎 You want the **entire README text in one single block**, ready to copy-paste at once, **without extra code blocks or splits**.
-
-Here’s the **clean professional version**:
-
----
 
 # Face Recognition Attendance System
 
