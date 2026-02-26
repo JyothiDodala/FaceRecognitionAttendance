@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment folders
+.env/
+venv/
+faceenv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore encodings if you want users to generate it
+# encodings.pkls
